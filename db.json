@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Haroon",
+      "age": 24,
+      "place": "Patna",
+      "batch_name": "WEB-23",
+      "profession": "Backend"
+    },
+    {
+      "id": 3,
+      "name": "rehan",
+      "age": "21",
+      "place": "bhopal",
+      "batch": "WEB-14",
+      "profession": "FSD"
+    }
+  ]
+}
